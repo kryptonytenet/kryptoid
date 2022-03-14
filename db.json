@@ -1,0 +1,28 @@
+{
+    "business": [
+	{
+	    "id": 0,
+	    "name": "Tesla, Inc.", 
+	    "uriString": "https://kryptonyte.net/kryptoid/images/tesla.svg", 
+	    "regNo": "US88160R1014", 
+	    "country": "USA", 
+	    "owner": [
+		"sur" : "Musk",
+		"giv": "Elon Marcus",
+		"sex": "M",
+		"dob": "19760901",
+		"pob": "South Africa",
+		"nat": "USA",
+		"cod": "USA",
+		"idn": "N123456789",
+		"iss": "20150203",
+		"exp": "20250203"
+	    ], 
+	    "address": "",
+	    "email": "info@tesla.com",
+	    "phone": "+1-003-004-789",
+	    "founded": "20030701",
+	    "status": "Active"
+	}
+    ]
+}
