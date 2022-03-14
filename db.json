@@ -3,14 +3,14 @@
 	{
 	    "id": 0,
 	    "name": "Tesla, Inc.", 
-	    "uriString": "https://kryptonyte.net/kryptoid/images/tesla.png", 
-	    "regNo": "US88860R1014", 
+	    "uriString": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/93px-Tesla_Motors.svg.png?20161128002127", 
+	    "regNo": "US881860R1014", 
 	    "country": "USA", 
 	    "owner": {
 		"sur": "Musk",
 		"giv": "Elon Marcus",
 		"sex": "M",
-		"dob": "19760901",
+		"dob": "19710901",
 		"pob": "South Africa",
 		"nat": "USA",
 		"cod": "USA",
@@ -18,7 +18,7 @@
 		"iss": "20150203",
 		"exp": "20250203"
 	    },
-	    "address": "13111 Tesla Road, Austin, Texas, United States",
+	    "address": "13101 Tesla Road, Austin, Texas, United States",
 	    "email": "info@tesla.com",
 	    "website": "www.tesla.com",
 	    "phone": "+1-123-004-789",
