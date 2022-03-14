@@ -4,7 +4,7 @@
 	    "id": 0,
 	    "name": "Tesla, Inc.", 
 	    "uriString": "https://kryptonyte.net/kryptoid/images/tesla.svg", 
-	    "regNo": "US88160R1014", 
+	    "regNo": "US88860R1014", 
 	    "country": "USA", 
 	    "owner": {
 		"sur": "Musk",
@@ -18,10 +18,10 @@
 		"iss": "20150203",
 		"exp": "20250203"
 	    },
-	    "address": "13101 Tesla Road, Austin, Texas, United States",
+	    "address": "13111 Tesla Road, Austin, Texas, United States",
 	    "email": "info@tesla.com",
 	    "website": "www.tesla.com",
-	    "phone": "+1-003-004-789",
+	    "phone": "+1-123-004-789",
 	    "founded": "20030701",
 	    "status": "Active"
 	}
