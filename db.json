@@ -2,6 +2,31 @@
     "business": [
 	{
 	    "id": 0,
+	    "name": "Not Exist Inc.", 
+	    "uriString": "",
+	    "regNo": "", 
+	    "country": "", 
+	    "owner": {
+		"sur": "",
+		"giv": "",
+		"sex": "",
+		"dob": "",
+		"pob": "",
+		"nat": "",
+		"cod": "",
+		"idn": "",
+		"iss": "",
+		"exp": ""
+	    },
+	    "address": "",
+	    "email": "",
+	    "website": "",
+	    "phone": "",
+	    "founded": "",
+	    "status": ""
+	},
+	{
+	    "id": 1,
 	    "name": "Tesla, Inc.", 
 	    "uriString": "https://github.kryptonyte.net/kryptoid/images/tesla.png",
 	    "regNo": "US88160R1014", 
@@ -23,6 +48,31 @@
 	    "website": "www.tesla.com",
 	    "phone": "+1-123-004-789",
 	    "founded": "20030701",
+	    "status": "Active"
+	},
+	{
+	    "id": 2,
+	    "name": "Facebook", 
+	    "uriString": "https://github.kryptonyte.net/kryptoid/images/facebook.png",
+	    "regNo": "US88160R8888", 
+	    "country": "USA", 
+	    "owner": {
+		"sur": "Zuckerberg",
+		"giv": "Mark Elliot",
+		"sex": "M",
+		"dob": "19840514",
+		"pob": "White Plains, New York, U.S.",
+		"nat": "USA",
+		"cod": "USA",
+		"idn": "N987654321",
+		"iss": "20150908",
+		"exp": "20250908"
+	    },
+	    "address": "Cambridge, Massachusetts, United States",
+	    "email": "info@facebook.com",
+	    "website": "www.facebook.com",
+	    "phone": "+1-123-004-789",
+	    "founded": "20040204",
 	    "status": "Active"
 	}
     ]
