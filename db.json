@@ -37,11 +37,7 @@
 		"sex": "M",
 		"dob": "19710628",
 		"pob": "South Africa",
-		"nat": "USA",
-		"cod": "USA",
-		"idn": "N123456789",
-		"iss": "20150203",
-		"exp": "20250203"
+		"nat": "USA"
 	    },
 	    "address": "13101 Tesla Road, Austin, Texas, United States",
 	    "email": "info@tesla.com",
