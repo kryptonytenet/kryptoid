@@ -71,5 +71,15 @@
 	    "founded": "20040204",
 	    "status": "Active"
 	}
-    ]
+    ],
+	"personal": [
+	{
+	    "id": 0,
+	    "photoUri": ""
+	},
+	{
+	    "id": 1,
+	    "photoUri": "https://github.kryptonyte.net/kryptoid/images/tesla.png"
+	}
+	]
 }
