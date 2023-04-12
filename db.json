@@ -27,6 +27,24 @@
 	},
 	{
 	    "id": 1,
+	    "name": "Kryptonyte LLC", 
+	    "uriString": "https://github.kryptonyte.net/kryptoid/images/krypt.png",
+	    "regNo": "202252412772", 
+	    "country": "USA", 
+	    "owner": {
+		"sur": "Khuong",
+		"giv": "Duy",
+		"nat": "VNM"
+	    },
+	    "address": "99 South Almaden Boulevard, Suite 600, San Jose, CA 95113",
+	    "email": "info@kryptonyte.net",
+	    "website": "www.kryptonyte.net",
+	    "phone": "+1-786-633-1699",
+	    "founded": "20220912",
+	    "status": "Active"
+	},
+	{
+	    "id": 2,
 	    "name": "Tesla, Inc.", 
 	    "uriString": "https://github.kryptonyte.net/kryptoid/images/tesla.png",
 	    "regNo": "US88160R1014", 
@@ -44,7 +62,7 @@
 	    "status": "Active"
 	},
 	{
-	    "id": 2,
+	    "id": 3,
 	    "name": "Facebook", 
 	    "uriString": "https://github.kryptonyte.net/kryptoid/images/facebook.png",
 	    "regNo": "US88160R8888", 
