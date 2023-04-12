@@ -34,14 +34,7 @@
 	    "owner": {
 		"sur": "Musk",
 		"giv": "Elon Reeve",
-		"sex": "M",
-		"dob": "19710628",
-		"pob": "South Africa",
-		"nat": "USA",
-		"cod": "USA",
-		"idn": "N123456789",
-		"iss": "20150203",
-		"exp": "20250203"
+		"nat": "USA"
 	    },
 	    "address": "13101 Tesla Road, Austin, Texas, United States",
 	    "email": "info@tesla.com",
@@ -59,14 +52,7 @@
 	    "owner": {
 		"sur": "Zuckerberg",
 		"giv": "Mark Elliot",
-		"sex": "M",
-		"dob": "19840514",
-		"pob": "White Plains, New York, U.S.",
-		"nat": "USA",
-		"cod": "USA",
-		"idn": "N987654321",
-		"iss": "20150908",
-		"exp": "20250908"
+		"nat": "USA"
 	    },
 	    "address": "Cambridge, Massachusetts, United States",
 	    "email": "info@facebook.com",
