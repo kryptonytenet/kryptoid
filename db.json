@@ -28,7 +28,7 @@
 	{
 	    "id": 1,
 	    "name": "Kryptonyte LLC", 
-	    "uriString": "https://github.kryptonyte.net/kryptoid/images/krypt.png",
+	    "uriString": "https://token.kryptoid.org/images/krypt.png",
 	    "regNo": "202252412772", 
 	    "country": "USA", 
 	    "owner": {
@@ -46,7 +46,7 @@
 	{
 	    "id": 2,
 	    "name": "Tesla, Inc.", 
-	    "uriString": "https://github.kryptonyte.net/kryptoid/images/tesla.png",
+	    "uriString": "https://token.kryptoid.org/images/tesla.png",
 	    "regNo": "US88160R1014", 
 	    "country": "USA", 
 	    "owner": {
@@ -64,7 +64,7 @@
 	{
 	    "id": 3,
 	    "name": "Facebook", 
-	    "uriString": "https://github.kryptonyte.net/kryptoid/images/facebook.png",
+	    "uriString": "https://token.kryptoid.org/images/facebook.png",
 	    "regNo": "US88160R8888", 
 	    "country": "USA", 
 	    "owner": {
@@ -87,12 +87,12 @@
 	},
 	{
 	    "id": 1,
-	    "photoUri": "https://github.kryptonyte.net/kryptoid/images/1.jpg",
+	    "photoUri": "https://token.kryptoid.org/images/1.jpg",
 		"md5": "ca2523ffa7efb7dd7cad2014a6209734"
 	},
 	{
 	    "id": 2,
-	    "photoUri": "https://github.kryptonyte.net/kryptoid/images/2.jpg",
+	    "photoUri": "https://token.kryptoid.org/images/2.jpg",
 		"md5": "46459e72e80b59aebf6c8ec70b861fde"
 	}
 	]
